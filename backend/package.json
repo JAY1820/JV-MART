@@ -1,7 +1,7 @@
 {
-  "name": "3-e-commerce-portal-backend",
+  "name": "e-commerce-portal-backend",
   "version": "1.0.0",
-  "description": "Backend for 3-e-commerce-portal",
+  "description": "Backend for e-commerce-portal",
   "main": "server.js",
   "type": "module",
   "scripts": {
